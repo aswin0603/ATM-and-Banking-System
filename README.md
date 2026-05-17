@@ -71,7 +71,7 @@ Create detailed charts that…
 <img width="1096" height="820" alt="image" src="https://github.com/user-attachments/assets/6944e427-739f-45a5-b31f-41ff5e4927f2" />
 
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
